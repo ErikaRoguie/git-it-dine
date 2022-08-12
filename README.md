@@ -1,6 +1,6 @@
 # git-it-don
 
-## ![alt](assets/images/Git-fix.PNG)
+## image ![alt](assets/images/Git-fix.PNG)
 
-![alt](https://erikaroguie.github.io/git-it-done/)
+## web page ![alt](https://erikaroguie.github.io/git-it-done/)
 
